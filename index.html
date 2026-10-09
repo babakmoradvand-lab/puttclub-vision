@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#09150f">
+  <meta name="description" content="PuttClub Vision — local-first golf shot tracing. Your videos stay on your device.">
+  <meta name="color-scheme" content="dark">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="PuttClub Vision">
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./assets/icon-192.png">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./styles.css">
+  <title>PuttClub Vision</title>
+</head>
+<body>
+  <div id="root" aria-live="polite">
+    <div class="boot-screen"><div class="logo-mark">◉</div><p>PuttClub Vision</p></div>
+  </div>
+  <div id="dialog-root"></div>
+  <div id="toast" class="toast" role="status" aria-live="polite"><span class="toast-dot"></span><span id="toast-message"></span></div>
+  <input id="video-file" class="visually-hidden" type="file" accept="video/*" aria-label="Choose a video">
+  <input id="camera-file" class="visually-hidden" type="file" accept="video/*" capture="environment" aria-label="Record a golf shot">
+  <input id="attach-file" class="visually-hidden" type="file" accept="video/*" aria-label="Attach an existing video">
+  <input id="restore-file" class="visually-hidden" type="file" accept="application/json,.json" aria-label="Restore project data">
+  <script type="module" src="./src/app.js"></script>
+</body>
+</html>
