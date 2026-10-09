@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#09150f">
+  <title>Privacy — PuttClub Vision</title>
+  <style>
+    :root{color-scheme:dark;--bg:#09150f;--panel:#102219;--line:rgba(218,238,218,.12);--text:#eef6e9;--muted:#a2b4a4;--lime:#c6f36d}
+    *{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 80% 0,rgba(153,198,100,.1),transparent 38%),var(--bg);color:var(--text);font:15px/1.75 system-ui,-apple-system,"Segoe UI",Tahoma,Arial,sans-serif}
+    main{max-width:780px;margin:0 auto;padding:36px 20px 70px}.brand{color:var(--lime);font-size:13px;font-weight:750;letter-spacing:.1em;text-transform:uppercase}h1{font-size:clamp(29px,7vw,44px);line-height:1.15;letter-spacing:-.05em;margin:12px 0 4px}h2{font-size:19px;letter-spacing:-.025em;margin:30px 0 8px}p,li{color:var(--muted);font-size:14px}a{color:var(--lime)}.card{padding:21px;border:1px solid var(--line);border-radius:18px;background:rgba(16,34,25,.83);margin-top:24px}.badge{display:inline-block;padding:4px 9px;border:1px solid rgba(198,243,109,.2);border-radius:30px;color:var(--lime);font-size:11px}.foot{border-top:1px solid var(--line);margin-top:35px;padding-top:14px;color:#809383;font-size:11px}
+  </style>
+</head>
+<body><main>
+  <div class="brand">PuttClub Vision</div><h1>Privacy, by design.</h1><span class="badge">Local-first · No account · No cloud sync</span>
+  <section class="card"><p><strong>Your videos and shot paths stay in this browser on this device.</strong> PuttClub Vision is a static web app. Imported clips, project details, trajectory points and settings are stored in the browser's IndexedDB for this site. The experimental tracking suggestion runs locally in your browser.</p></section>
+  <h2>What the app stores</h2><p>The app saves imported video files, project names, path points, the seed location used for local tracking, trace styling, optional distance labels and playback metadata in your browser's local database. Your language choice is saved in local browser storage. We do not include an account system, remote project database, analytics SDK, advertising tracker or third-party tracking script.</p>
+  <h2>Network and hosting</h2><p>The app shell is hosted as static files on GitHub Pages. Your browser fetches those app files from the hosting site. The app does not upload your video, project data, path coordinates or tracking frames to GitHub or another app backend. GitHub Pages, as the website host, may process ordinary web-request logs under its own terms; PuttClub Vision does not send it the contents of your projects.</p>
+  <h2>On-device storage can be cleared</h2><p>Browser or operating-system storage is not a guaranteed archival service. Clearing site data, uninstalling a browser, or device/storage policies may remove local videos and projects. The app can request persistent storage where the browser supports it, but the browser decides whether to grant that request. Back up important originals to a location you control.</p>
+  <h2>Backups and exports</h2><p>A project-data export contains the editable project recipe and path points, not the original video. The app can restore that JSON locally; attach the original clip separately to view or track it again. Export the original clip separately from the project studio. A supported browser can also record a video-only trace locally in real time; audio is not included. Those downloaded files are handled by your browser and your chosen file destination; they are not uploaded by this app.</p>
+  <h2>Camera and video access</h2><p>Choosing or recording a clip is initiated by you through your browser's file or camera interface. The app reads the selected clip for local playback and optional frame analysis. No camera or microphone capture begins without your action.</p>
+  <h2>Limitations</h2><p>The trajectory helper is an experimental, simple image heuristic; it can mistake bright objects for a golf ball, lose the ball, and is not compensated for camera motion. Review and correct all suggested points. Video rendering depends on browser support for Canvas capture and MediaRecorder; it runs at real-time playback speed and exports video without audio. The JSON project data and original clip are always available as separate exports.</p>
+  <div class="foot">PuttClub Vision · This page describes the current static app build. <a href="./">Return to the app</a>.</div>
+</main></body></html>
