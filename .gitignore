@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.mp4
+*.mov
+*.m4v
+*.webm
+*.3gp
+*.puttclub.json
+puttclub-vision-backup.json
