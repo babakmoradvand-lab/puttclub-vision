@@ -1,0 +1,1465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1gi8Kaf4azGcLYXuUj-FVIXpU3u9bhsTP">
+	<name>Tehran-golf</name>
+	<visibility>0</visibility>
+	<Schema name="__managed_schema" id="__managed_schema">
+		<SimpleField type="int" name="085B10EF0C413634FA5D">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="163F9DC573413632AD57">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1D6DE7259C413631DE70">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="141095EB384136317395">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1B27D29B4D41363127B4">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="16CB38C24B4136307E73">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="10FD2397604136302B26">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1A10F2B63341362FD030">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="13FADA232941362F6CC6">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1F737059E641362F00D6">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0601C1AE8241362E7C7D">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1BA0873F4B41362E0374">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1227516E7841362D2D23">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="19CEF0D20041362CB709">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1910E1BF0241362BD091">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1F5CF6463F41362B67E5">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1C2D411E8341362A4AE4">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="09175241D4413629B7D4">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="19F0E17BC7413625A4BF">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="185A31516B4136250DA5">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="137074900C4136249C2D">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="160E617067413623A427">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="168D7F1C92413622F407">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="11E5E21E48413622A4CE">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="013F3B569941361FE4B8">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="146A824DE441361EC682">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="173D440C7041361E426E">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0F82C4DDA941361D5C58">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="138E5B3DF241361A1C36">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1C7C0098EE413618FE8E">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="197777383441361849E9">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="053D7045F2413617C24E">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1CFC35F5F84136168628">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0DD7E9AB3F4136159B23">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="03F95488684136121F06">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="0F40BAEEA841360EB12A">
+			<displayName>Accuracy (m)</displayName>
+		</SimpleField>
+	</Schema>
+	<gx:CascadingStyle kml:id="__managed_style_041D2C84F5426AB895BE_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.33333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_041D2C84F5426AB895BE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_041D2C84F5426AB895BE_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_041D2C84F5426AB895BE_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_092E79F5A9426AB895BD_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_041D2C84F5426AB895BE_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_092E79F5A9426AB895BD_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.33333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_092E79F5A9426AB895BD">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_092E79F5A9426AB895BD_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_092E79F5A9426AB895BD_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="00EFB79108413625A4BF">
+		<name>T.1-339Y-par5-W</name>
+		<LookAt>
+			<longitude>51.39917092973606</longitude>
+			<latitude>35.78589766578256</latitude>
+			<altitude>1579.997960254326</altitude>
+			<heading>22.47909099563071</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>172.8305374851334</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="19F0E17BC7413625A4BF">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39915583759926,35.78601578070361,1581.552484703805</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08833DF8F841360EB129">
+		<name>Hole 1</name>
+		<LookAt>
+			<longitude>51.39818556486306</longitude>
+			<latitude>35.78343156916162</latitude>
+			<altitude>1568.092650921719</altitude>
+			<heading>182.3577372618733</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>195.1202493686287</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0F40BAEEA841360EB12A">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39822648871747,35.78332237813484,1567.556187881092</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="093BF0741E423CB3D87E">
+		<name>Fairway 1</name>
+		<LookAt>
+			<longitude>51.39832522862648</longitude>
+			<latitude>35.78393756129581</latitude>
+			<altitude>1571.077657453823</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>343.6071224702027</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39925350101803,35.78599122129749,0 51.39911290544193,35.78608640125632,0 51.39883916382152,35.78590421857064,0 51.39851715700053,35.785716768668,0 51.39834792189582,35.7855360035107,0 51.39798686988991,35.7850267102478,0 51.39772854333209,35.78470334399898,0 51.39779212337481,35.78415627227491,0 51.39806030834111,35.78318194433994,0 51.39843487778543,35.78323301896439,0 51.39842664863007,35.78338329119909,0 51.39831262572442,35.7833840502699,0 51.39821481097152,35.78344109888488,0 51.39819819569342,35.78355178223004,0 51.39815148813445,35.78415718824277,0 51.39816998805171,35.78450415385709,0 51.39841560148725,35.7851036215128,0 51.39883244258769,35.78560727649049,0 51.39925350101803,35.78599122129749,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0D433A2442413634FA5B">
+		<name>T.2-300Y-par4-W</name>
+		<LookAt>
+			<longitude>51.3979398836416</longitude>
+			<latitude>35.78287387160741</latitude>
+			<altitude>1564.684154140223</altitude>
+			<heading>49.97260370645779</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>236.7638593351148</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="085B10EF0C413634FA5D">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39791630549364,35.78306751089275,1565.737822649608</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A40948AA14136159B21">
+		<name>Hole 2</name>
+		<LookAt>
+			<longitude>51.39566010432441</longitude>
+			<latitude>35.7846825485904</latitude>
+			<altitude>1576.46161666516</altitude>
+			<heading>263.075218800638</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>298.2351175155055</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0DD7E9AB3F4136159B23">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39546915351119,35.78451529366594,1576.492919867699</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F704C5C7F423CB722CC">
+		<name>Fairway 2</name>
+		<LookAt>
+			<longitude>51.3956005590944</longitude>
+			<latitude>35.78449388468579</latitude>
+			<altitude>1576.131569279952</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>90.38757899204029</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39796096662118,35.78306502729396,0 51.39776957535206,35.78352228743159,0 51.39765674793711,35.78366520505794,0 51.39759278201706,35.78376386519966,0 51.39760483664232,35.78381562911338,0 51.39739433112166,35.78417769383974,0 51.39702558159155,35.78437106258947,0 51.39654273695012,35.78454166315734,0 51.39633175961957,35.78460390634415,0 51.39605632489374,35.78466456030868,0 51.39576530164964,35.78469056868028,0 51.3957318140385,35.78460458733634,0 51.39561175918927,35.78459269799759,0 51.39556317064626,35.78466382354005,0 51.39551988227322,35.78470008155115,0 51.39535441954472,35.78470523001023,0 51.39534765996331,35.78457925115389,0 51.39535360240864,35.78449775014186,0 51.39536487334031,35.78444200315966,0 51.39574267094571,35.78438611872089,0 51.39591439413962,35.78437404207614,0 51.39623923453827,35.78430373582123,0 51.39624812312192,35.78433994827788,0 51.39661486708334,35.78416650104189,0 51.39713780244721,35.78388847436211,0 51.39786173521613,35.78297300353285,0 51.39796096662118,35.78306502729396,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E429A71E04136168628">
+		<name>T.3-352Y-par4-W</name>
+		<LookAt>
+			<longitude>51.39621950597261</longitude>
+			<latitude>35.78370849200061</latitude>
+			<altitude>1571.562210748111</altitude>
+			<heading>-96.92447026366659</heading>
+			<tilt>7.498415479898708</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>325.6233913509641</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1CFC35F5F84136168628">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39621162655038,35.78355311453962,1571.350974894716</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="007B0F00A4413617C24D">
+		<name>Hole 3</name>
+		<LookAt>
+			<longitude>51.39694493684011</longitude>
+			<latitude>35.78084509911614</latitude>
+			<altitude>1555.951805758561</altitude>
+			<heading>-113.5477606198975</heading>
+			<tilt>7.498251476670901</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>185.8383625082206</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="053D7045F2413617C24E">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39684984542087,35.78069548617773,1555.58644761761</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01D17E2A45423CB9E2C6">
+		<name>Fairway 3</name>
+		<LookAt>
+			<longitude>51.3962185580184</longitude>
+			<latitude>35.78321212228159</latitude>
+			<altitude>1569.564218745292</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>230.2386234321602</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39612809135216,35.78339019005632,0 51.39623634896084,35.78281397885095,0 51.39632750544702,35.78241566302015,0 51.39648586686052,35.78151195027877,0 51.39657590375562,35.78105698835528,0 51.39655514686369,35.78098849922195,0 51.39670297643634,35.78073548668876,0 51.39678649841673,35.78063614908606,0 51.39687423256434,35.7806157110417,0 51.39697210803467,35.78066615417668,0 51.39688737477262,35.78120540822024,0 51.39680944676635,35.7817613322345,0 51.39670834098576,35.7824624037663,0 51.39650668027333,35.78289058159088,0 51.39646051906801,35.7830816250086,0 51.39642558563781,35.78327092946718,0 51.39637341117875,35.78341610723445,0 51.39633873673792,35.78358343829543,0 51.39617404643628,35.78356105671855,0 51.39612809135216,35.78339019005632,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0B79CC279C41361849E9">
+		<name>T.4-256Y-par4-W</name>
+		<LookAt>
+			<longitude>51.39621680455399</longitude>
+			<latitude>35.78160086861701</latitude>
+			<altitude>1561.181621038221</altitude>
+			<heading>-113.5481819158644</heading>
+			<tilt>7.498249557733071</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>184.2031481069898</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="197777383441361849E9">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.3961690172342,35.78153652489075,1560.716194300968</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FCC6B7D81413618FE8E">
+		<name>Hole 4</name>
+		<LookAt>
+			<longitude>51.39592242867325</longitude>
+			<latitude>35.78356670522889</latitude>
+			<altitude>1571.597785755931</altitude>
+			<heading>-78.09166791160631</heading>
+			<tilt>7.498520946468425</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>415.5167370086565</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1C7C0098EE413618FE8E">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39571403581188,35.78370300991284,1572.182395094346</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="075D092C75423CBC26BC">
+		<name>Fairway 4</name>
+		<LookAt>
+			<longitude>51.39634987739981</longitude>
+			<latitude>35.78193859749949</latitude>
+			<altitude>1563.032283738066</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>204.0642300079708</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39616308942828,35.78151270720414,0 51.39625180412938,35.78154318174487,0 51.39609728427749,35.78191085209367,0 51.39604747748296,35.78233533897649,0 51.39603027124087,35.78292841224328,0 51.39593268564481,35.78326692483317,0 51.39592976141729,35.78360804860335,0 51.39578453773872,35.78382846124438,0 51.39564675673817,35.78386208884663,0 51.39552556534945,35.78381288689875,0 51.39558047537506,35.78361004538739,0 51.39555132615044,35.78355090692275,0 51.39556042417901,35.78340811288523,0 51.3955959326661,35.78288343179636,0 51.39558557945112,35.78240770856596,0 51.39616308942828,35.78151270720414,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="06270AB65E41361A1C36">
+		<name>T.5-360Y-par5-W</name>
+		<LookAt>
+			<longitude>51.39644284132636</longitude>
+			<latitude>35.78363248254343</latitude>
+			<altitude>1570.501838603334</altitude>
+			<heading>-138.8863472350573</heading>
+			<tilt>7.498296696826369</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>224.3821771587318</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="138E5B3DF241361A1C36">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39646707203147,35.78363162813869,1570.629688939137</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C539637C741361D5C56">
+		<name>Hole 5</name>
+		<LookAt>
+			<longitude>51.3980988456433</longitude>
+			<latitude>35.78108913042838</latitude>
+			<altitude>1552.51028464821</altitude>
+			<heading>-134.2215512878468</heading>
+			<tilt>7.498470367038465</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>372.4062631338893</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0F82C4DDA941361D5C58">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39792386585734,35.78089711068563,1552.350106317348</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="079B08C00A423CBE0CB4">
+		<name>Fairway 5</name>
+		<LookAt>
+			<longitude>51.397350002203</longitude>
+			<latitude>35.78340694616937</latitude>
+			<altitude>1567.820001037843</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>566.2509101441537</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39664095191314,35.78377499854672,0 51.39639237748608,35.7838387704308,0 51.39642275848709,35.78356335124059,0 51.39666080022723,35.78351480781608,0 51.39707609843602,35.78308293079925,0 51.39762388758776,35.7820942714442,0 51.39780670301906,35.78139803741504,0 51.39780385250598,35.78105135122953,0 51.39783438451662,35.78086107556798,0 51.39791591743346,35.78081199277881,0 51.39807746432213,35.78081502043778,0 51.39827213234375,35.78109583145496,0 51.39821414551381,35.78172566248499,0 51.39797218336983,35.78248065423009,0 51.39756580219302,35.78309266303339,0 51.39706270674976,35.78350055780774,0 51.39685894839297,35.78359199843811,0 51.39664095191314,35.78377499854672,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0171107A7141361E426E">
+		<name>T.6-123Y-par3-W</name>
+		<LookAt>
+			<longitude>51.39768936786607</longitude>
+			<latitude>35.78118282048263</latitude>
+			<altitude>1556.126499147316</altitude>
+			<heading>-134.2215746703993</heading>
+			<tilt>7.472105702829501</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>115.0138999941919</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="173D440C7041361E426E">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39760811572552,35.78114276506533,1556.737512841502</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01E6FC7A2041361EC682">
+		<name>Hole 6</name>
+		<LookAt>
+			<longitude>51.39772645046199</longitude>
+			<latitude>35.78020840696492</latitude>
+			<altitude>1552.146550973478</altitude>
+			<heading>-134.2214987012571</heading>
+			<tilt>7.472075035545186</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>88.78467995871688</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="146A824DE441361EC682">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39768698092109,35.78013981733177,1552.168516134282</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F3789EEC5423CC12090">
+		<name>Fairway 6</name>
+		<LookAt>
+			<longitude>51.39786235138392</longitude>
+			<latitude>35.78062451634827</latitude>
+			<altitude>1551.81088755013</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>476.987670702656</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39770046916811,35.78124923706658,0 51.39752771610354,35.78129258704276,0 51.39748768415311,35.78064135181044,0 51.39755286331257,35.7802284982488,0 51.39763680424571,35.78009623508796,0 51.39762887638611,35.78010541616101,0 51.39768962115451,35.7801114261206,0 51.39777246550504,35.7801236827496,0 51.3977008872481,35.78072009376552,0 51.39764082444697,35.78105109662978,0 51.39767827327501,35.7811639351794,0 51.39770046916811,35.78124923706658,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0AD3E42B6841361FE4B7">
+		<name>T.7-117Y-par3-W</name>
+		<LookAt>
+			<longitude>51.39799811310639</longitude>
+			<latitude>35.78015770552925</latitude>
+			<altitude>1549.797616176109</altitude>
+			<heading>225.7786096319163</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>188.2371745091586</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="013F3B569941361FE4B8">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39788477611312,35.78005325589714,1550.334485585805</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0075D5F710413622A4CE">
+		<name>Hole 7</name>
+		<LookAt>
+			<longitude>51.39876463956074</longitude>
+			<latitude>35.78077769887246</latitude>
+			<altitude>1548.399720608464</altitude>
+			<heading>153.0107412559793</heading>
+			<tilt>2.738237426695818</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>225.9818487113444</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="11E5E21E48413622A4CE">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39879425631081,35.78066383615792,1547.695975616824</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="043A5C81544245EDD0B1">
+		<name>Fairway 7</name>
+		<LookAt>
+			<longitude>51.39851643994719</longitude>
+			<latitude>35.78064509049436</latitude>
+			<altitude>1549.139592955977</altitude>
+			<heading>306.7033980692561</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000555315</gx:fovy>
+			<range>225.3047846788468</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39783271520517,35.78008099580307,0 51.39790443620571,35.78000161920774,0 51.39826252043362,35.7801657512119,0 51.39865150496712,35.78026382483994,0 51.39892000317849,35.78071380345067,0 51.39874206943609,35.7808228755861,0 51.39839894136981,35.78062187945132,0 51.3980166139323,35.78014192286498,0 51.39783271520517,35.78008099580307,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E19D7BA2F413622F407">
+		<name>T.8-293Y-Par4-W</name>
+		<LookAt>
+			<longitude>51.39885849563849</longitude>
+			<latitude>35.7808317466849</latitude>
+			<altitude>1549.111247617725</altitude>
+			<heading>153.01079613289</heading>
+			<tilt>2.738237120625989</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>225.2695083726212</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="168D7F1C92413622F407">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39896386829297,35.78073130000942,1548.643548895728</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F863F9FD1413623A427">
+		<name>Hole 8</name>
+		<LookAt>
+			<longitude>51.39929289644467</longitude>
+			<latitude>35.78296232324836</latitude>
+			<altitude>1560.11403784065</altitude>
+			<heading>27.79544462242246</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>234.542355969279</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="160E617067413623A427">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39923804389443,35.78323908716583,1560.918371323196</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="015BD51B634245F026F3">
+		<name>Fairway 8</name>
+		<LookAt>
+			<longitude>51.39892770898794</longitude>
+			<latitude>35.78215803047473</latitude>
+			<altitude>1559.327836428632</altitude>
+			<heading>244.4736779129895</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000555315</gx:fovy>
+			<range>573.9583426800527</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39895280511655,35.78069787557831,0 51.3990730959768,35.78088444747033,0 51.39922934454325,35.78100789351403,0 51.3994667408527,35.78170396773612,0 51.39934485499145,35.7822789959034,0 51.39935301677779,35.78288311980333,0 51.39934587616882,35.78305335824246,0 51.39938349474382,35.78319575428321,0 51.39933530699526,35.78329943653407,0 51.39914665466097,35.78333299951545,0 51.39907313441644,35.78313595497211,0 51.39907930958245,35.78270816723794,0 51.39918683294709,35.78193350060902,0 51.39911899944825,35.78157704274007,0 51.3990917585886,35.78122363766632,0 51.39882706786698,35.78079102736895,0 51.39895280511655,35.78069787557831,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0D51EF71084136249C2D">
+		<name>T.9-290Y-Par4-W</name>
+		<LookAt>
+			<longitude>51.39934681562599</longitude>
+			<latitude>35.78320010161106</latitude>
+			<altitude>1561.939468720293</altitude>
+			<heading>65.15058292202431</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>174.9494567962029</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="137074900C4136249C2D">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39930813206194,35.78333545874851,1562.169540413403</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E95E81EE24136250DA5">
+		<name>Hole 9</name>
+		<LookAt>
+			<longitude>51.39927676865159</longitude>
+			<latitude>35.78548063826574</latitude>
+			<altitude>1575.407007302832</altitude>
+			<heading>22.4791598972928</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00001035000501</gx:fovy>
+			<range>269.0274021303048</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="185A31516B4136250DA5">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39916726414621,35.78571970348413,1562.169540413403</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="021548FD0B4245F7BBEE">
+		<name>Fairway 9</name>
+		<LookAt>
+			<longitude>51.39901394146128</longitude>
+			<latitude>35.78411648860168</latitude>
+			<altitude>1567.789579415893</altitude>
+			<heading>244.4713584980838</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000555315</gx:fovy>
+			<range>448.0794099011837</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39916684929076,35.78330788334879,0 51.39936398405617,35.78330047124651,0 51.39943901904619,35.78349549875862,0 51.39931105543912,35.78372755780464,0 51.39938397032991,35.78403181994967,0 51.39951840753211,35.78419262954754,0 51.39950953861445,35.7843893419447,0 51.39929288910824,35.78458507038027,0 51.39923620956046,35.78463795387854,0 51.39924456881971,35.78472608547079,0 51.39932824736818,35.78562534800843,0 51.39927815156402,35.78571264975684,0 51.3992485509712,35.78578083222676,0 51.39916326516401,35.78583481027322,0 51.39905532034805,35.7857929412524,0 51.39904833264402,35.78563158280156,0 51.39906116977991,35.78543068044115,0 51.39897951300006,35.78469921656302,0 51.39905505172069,35.78451072756648,0 51.39914936242319,35.78437954107542,0 51.39919528409603,35.78410511903848,0 51.39911663135635,35.7840030032738,0 51.39906383146141,35.78379275762963,0 51.39916258094484,35.78343558253466,0 51.39916684929076,35.78330788334879,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="02A93F56D5413629B7D3">
+		<name>T.10-336Y-Par4-W</name>
+		<LookAt>
+			<longitude>51.3998167568586</longitude>
+			<latitude>35.78660836030775</latitude>
+			<altitude>1592.116700778007</altitude>
+			<heading>349.4065191976183</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>124.1820891409407</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="09175241D4413629B7D4">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39972146011687,35.78668057257143,1591.939640907411</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E3A07B9AE41362A4AE4">
+		<name>Hole 10</name>
+		<LookAt>
+			<longitude>51.39701282288568</longitude>
+			<latitude>35.78525876409912</latitude>
+			<altitude>1578.926306134376</altitude>
+			<heading>349.4048454644089</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>394.8228028410813</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1C2D411E8341362A4AE4">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.3967406145028,35.7853495338996,1579.397001490514</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00A61D10604245FFDDE3">
+		<name>Fairway 10</name>
+		<LookAt>
+			<longitude>51.39678187558347</longitude>
+			<latitude>35.78587978559154</latitude>
+			<altitude>1582.584048061611</altitude>
+			<heading>240.2132808962552</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000555315</gx:fovy>
+			<range>1223.422907056811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39973433288328,35.78662865376329,0 51.39971649884265,35.78670712873371,0 51.39969297100881,35.78680257028398,0 51.3980958636029,35.78649027062502,0 51.39777873858646,35.78613095364926,0 51.39741835113676,35.78587582632267,0 51.39696890566361,35.78556966930197,0 51.39694370703943,35.78525021603695,0 51.39681922689384,35.78528097690081,0 51.39681406986643,35.7854212559991,0 51.39681036692562,35.78561583855334,0 51.3966672504169,35.78555996653608,0 51.39657573658884,35.785486405523,0 51.39653712712443,35.7853067591177,0 51.39660486394588,35.78519989840042,0 51.39670679791635,35.78516516279096,0 51.39682826418495,35.78527532477828,0 51.39706436509643,35.78521270104795,0 51.39744198597502,35.78531886221888,0 51.39782114117983,35.78549287937868,0 51.39841422220771,35.78600422871619,0 51.39936600849764,35.78658058445399,0 51.39957458592006,35.78664748370201,0 51.39973433288328,35.78662865376329,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0B10B2CD6B41362B67E5">
+		<name>T.11-165Y-Par3-W</name>
+		<LookAt>
+			<longitude>51.39647859531662</longitude>
+			<latitude>35.78536448355793</latitude>
+			<altitude>1578.625774540626</altitude>
+			<heading>-3.545436027921517</heading>
+			<tilt>0.05735247387904209</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>238.0283364457864</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1F5CF6463F41362B67E5">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39642301619481,35.78544827764532,1578.883219244534</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DE6EECC4441362BD091">
+		<name>Hole 11</name>
+		<LookAt>
+			<longitude>51.39486234100482</longitude>
+			<latitude>35.78557349054794</latitude>
+			<altitude>1581.578186181616</altitude>
+			<heading>-3.545436089171087</heading>
+			<tilt>0.05735242953507489</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>235.0775499160954</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1910E1BF0241362BD091">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39478338331166,35.78569148487436,1582.337074306463</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0869AD1D794246036A40">
+		<name>Fairway 11</name>
+		<LookAt>
+			<longitude>51.39542936128412</longitude>
+			<latitude>35.78535591125596</latitude>
+			<altitude>1579.52099803832</altitude>
+			<heading>240.2099839087894</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000555315</gx:fovy>
+			<range>378.7591504080046</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39639477241939,35.78530536676219,0 51.39645216273219,35.78557847812957,0 51.39591637172435,35.78572149314101,0 51.39523972384858,35.78579960841763,0 51.39502120221305,35.78586643441079,0 51.39480730297375,35.78585982502263,0 51.39465824522309,35.78582760129551,0 51.39460593631293,35.78567529543289,0 51.39468099468325,35.78555925005484,0 51.39478614733029,35.78555222353361,0 51.39553570153978,35.78543105613685,0 51.39639477241939,35.78530536676219,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="004FF1C2F441362CB709">
+		<name>T.12-256Y-Par4-W</name>
+		<LookAt>
+			<longitude>51.39647612992556</longitude>
+			<latitude>35.78350781929034</latitude>
+			<altitude>1569.986647889556</altitude>
+			<heading>-3.545436190446948</heading>
+			<tilt>0.05735344894197864</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>357.5492133458829</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="19CEF0D20041362CB709">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39621279758189,35.78355297914581,1571.529239701988</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00A666E2A341362D2D23">
+		<name>Hole 12</name>
+		<LookAt>
+			<longitude>51.39700395776543</longitude>
+			<latitude>35.78071077716285</latitude>
+			<altitude>1555.582170472031</altitude>
+			<heading>-3.545436077491428</heading>
+			<tilt>0.05735356534751649</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>371.9536973287905</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1227516E7841362D2D23">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39691288217161,35.78069058563009,1555.483004056428</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A1371FBDD424608E13C">
+		<name>Fairway 12</name>
+		<LookAt>
+			<longitude>51.39601383940798</longitude>
+			<latitude>35.78338167810895</latitude>
+			<altitude>1570.43744748208</altitude>
+			<heading>322.3675038770605</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000555315</gx:fovy>
+			<range>132.6242052213456</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39613043586055,35.78339567480592,0 51.39618609865538,35.7830801076199,0 51.39642085675308,35.78191947009529,0 51.39657530349436,35.78105922690587,0 51.39655496575253,35.78098912854352,0 51.39669987814207,35.78073835691335,0 51.39678684195926,35.78063661623702,0 51.39687449356498,35.7806162633576,0 51.39697433850223,35.78066804580066,0 51.39686053424094,35.78140226421435,0 51.39670455645981,35.78245859987172,0 51.39650731966521,35.78289257749588,0 51.39642382095131,35.78327013571583,0 51.39637344786814,35.78341589041692,0 51.39633928767451,35.78358319185097,0 51.39617428946897,35.78356147306781,0 51.39613043586055,35.78339567480592,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0D201A1B9341362E0374">
+		<name>T.13-352Y-Par4-W</name>
+		<LookAt>
+			<longitude>51.39607281554863</longitude>
+			<latitude>35.78184496350468</latitude>
+			<altitude>1562.652399787894</altitude>
+			<heading>172.2905586709585</heading>
+			<tilt>0.05735533005271191</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>575.0598349120265</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1BA0873F4B41362E0374">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39616736233087,35.78153742482883,1560.472258453742</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="054EBE4C9541362E7C7C">
+		<name>Hole 13</name>
+		<LookAt>
+			<longitude>51.39546894230831</longitude>
+			<latitude>35.78380135428068</latitude>
+			<altitude>1573.002368557533</altitude>
+			<heading>172.2902056331699</heading>
+			<tilt>0.05735523271430869</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>564.7098779179214</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="0601C1AE8241362E7C7D">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39571231344399,35.78370652960762,1572.326723541868</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DA07BD9AB42460BD099">
+		<name>Fairway 13</name>
+		<LookAt>
+			<longitude>51.39629171492651</longitude>
+			<latitude>35.78175416666169</latitude>
+			<altitude>1561.494118657549</altitude>
+			<heading>322.3508217004307</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000555315</gx:fovy>
+			<range>97.29755724996721</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39616317370368,35.78151303023335,0 51.39625266363107,35.78154313821367,0 51.39609669076559,35.78191140931285,0 51.3960414552895,35.78254104449982,0 51.39603042205529,35.78293129540928,0 51.39593931040542,35.78326976476374,0 51.39593009624709,35.78361173111819,0 51.39578420109984,35.78383062950273,0 51.39564628104949,35.78386346974752,0 51.39552540922226,35.78381385657508,0 51.39558395698983,35.78361161146532,0 51.39555298777356,35.78355376921193,0 51.3955807879498,35.78306996078302,0 51.3955906061954,35.78256333230639,0 51.39558320792234,35.78240855317861,0 51.39588838358005,35.78193385383714,0 51.39616317370368,35.78151303023335,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="02146B229F41362F00D6">
+		<name>T.14-360Y-Par5-W</name>
+		<LookAt>
+			<longitude>51.39640954388112</longitude>
+			<latitude>35.78356186593115</latitude>
+			<altitude>1570.633906955242</altitude>
+			<heading>112.6838754384156</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>127.0826729904184</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1F737059E641362F00D6">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39646212839858,35.7836454815408,1570.665633847806</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03F4FDC97141362F6CC6">
+		<name>Hole 14</name>
+		<LookAt>
+			<longitude>51.39785335202175</longitude>
+			<latitude>35.78088888555148</latitude>
+			<altitude>1552.911605072542</altitude>
+			<heading>112.6846245311584</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>85.83495959859647</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="13FADA232941362F6CC6">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.3979370271982,35.78090306157195,1552.272450001281</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07A08DC16342460FD308">
+		<name>Fairway 14</name>
+		<LookAt>
+			<longitude>51.39757769697985</longitude>
+			<latitude>35.7809042090141</latitude>
+			<altitude>1555.429774297426</altitude>
+			<heading>322.3555433308157</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000555315</gx:fovy>
+			<range>152.9609378163877</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39791741739037,35.78081080534974,0 51.39807946951822,35.7808125762631,0 51.39827283010348,35.7810969436101,0 51.39821306820117,35.78172773488969,0 51.39797145249813,35.78248383558329,0 51.39756242025819,35.78309535274833,0 51.39705925821713,35.78350239492288,0 51.39685813752971,35.783592262083,0 51.39663925507233,35.78377706617683,0 51.39639127532496,35.78383822272259,0 51.39642472554167,35.78356399776292,0 51.3966608007963,35.78351410892812,0 51.39707396271839,35.78308200849855,0 51.39762331044482,35.78209423105938,0 51.39780534966528,35.78139937471305,0 51.3978037831749,35.78105059012641,0 51.39783525432051,35.78086147163086,0 51.39791741739037,35.78081080534974,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0CC1E8AF0C41362FD030">
+		<name>T.15-123Y-Par3-W</name>
+		<LookAt>
+			<longitude>51.39764262649881</longitude>
+			<latitude>35.78104527543023</latitude>
+			<altitude>1556.016036887326</altitude>
+			<heading>112.6845342767353</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>147.4459323479277</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1A10F2B63341362FD030">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.3976149753794,35.7811458208471,1556.723700544153</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="000C4DA8E04136302B26">
+		<name>Hole 15</name>
+		<LookAt>
+			<longitude>51.39745839743635</longitude>
+			<latitude>35.78030131160063</latitude>
+			<altitude>1553.229591280092</altitude>
+			<heading>112.6844643368985</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>312.5194951785306</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="10FD2397604136302B26">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39767800268716,35.7801248597019,1552.160790907721</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="073449E2EE424616FF98">
+		<name>Fairway 15</name>
+		<LookAt>
+			<longitude>51.39736145996088</longitude>
+			<latitude>35.78061560459085</latitude>
+			<altitude>1554.324786919118</altitude>
+			<heading>322.3553311642967</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000555315</gx:fovy>
+			<range>377.4678799924732</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39748643206445,35.780654386506,0 51.39755565796594,35.78023150496888,0 51.39761702648491,35.78010882885031,0 51.39778040862906,35.78012581445977,0 51.39763939756696,35.78105688173585,0 51.39770435350882,35.78124743097062,0 51.39752839046015,35.7813028852646,0 51.39748643206445,35.780654386506,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0BA49EBD034136307E73">
+		<name>T.16-117Y-Par3-W</name>
+		<LookAt>
+			<longitude>51.39779819781161</longitude>
+			<latitude>35.78007071991573</latitude>
+			<altitude>1551.146881620651</altitude>
+			<heading>102.1971696881211</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>106.5611338068811</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="16CB38C24B4136307E73">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39788374474307,35.78004865864995,1550.330854268245</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C3B3B512341363127B4">
+		<name>Hole 16</name>
+		<LookAt>
+			<longitude>51.39874956285419</longitude>
+			<latitude>35.78060489251123</latitude>
+			<altitude>1547.433981225421</altitude>
+			<heading>102.1971342648175</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>109.9152569206308</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1B27D29B4D41363127B4">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39879245676809,35.78066243859708,1547.687872960656</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D45DE9F6142461B8B1B">
+		<name>Fairway 16</name>
+		<LookAt>
+			<longitude>51.39850839916608</longitude>
+			<latitude>35.78048508084603</latitude>
+			<altitude>1548.131955078285</altitude>
+			<heading>322.3556633851657</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000001</gx:fovy>
+			<range>284.4519554386352</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39782986315985,35.78008316409719,0 51.39790605209357,35.78000095491009,0 51.39826878993492,35.78016816183867,0 51.39866665234042,35.78026671231137,0 51.39891929055874,35.78071531447799,0 51.39874580869615,35.78082307861875,0 51.39840400599625,35.78062654783196,0 51.39800900612753,35.78013536926031,0 51.39782986315985,35.78008316409719,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="02CFEC02CE4136317395">
+		<name>T.17-293Y-Par4-W</name>
+		<LookAt>
+			<longitude>51.39890857323114</longitude>
+			<latitude>35.78075693521387</latitude>
+			<altitude>1548.509770987914</altitude>
+			<heading>102.197227236114</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>108.843814446227</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="141095EB384136317395">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39895447103819,35.78071837304406,1548.53277617983</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0142BE5950413631DE70">
+		<name>Hole 17</name>
+		<LookAt>
+			<longitude>51.39906584184899</longitude>
+			<latitude>35.78312112420479</latitude>
+			<altitude>1560.93608060483</altitude>
+			<heading>102.1973420260671</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>214.5870223605016</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1D6DE7259C413631DE70">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.39927936264971,35.78315351180133,1560.8684759032</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A338CC34342461D37A1">
+		<name>Fairway 17</name>
+		<LookAt>
+			<longitude>51.39872222749136</longitude>
+			<latitude>35.78113965819858</latitude>
+			<altitude>1551.998575590679</altitude>
+			<heading>322.3558805909483</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000001</gx:fovy>
+			<range>172.7446413019061</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.39882794581845,35.78079112212423,0 51.39895205114728,35.78069608164859,0 51.39907356681627,35.78088430047392,0 51.39923658602537,35.78101427975508,0 51.39946852302187,35.78170595243968,0 51.39934426926583,35.78228317372768,0 51.39934852108089,35.78305560786038,0 51.39938636962531,35.78319517211723,0 51.39933713808392,35.78330000989489,0 51.39914860936229,35.78333189750653,0 51.39907568098666,35.78313626156343,0 51.39908092235721,35.78270580840388,0 51.39919043316569,35.78193737859894,0 51.3990897529258,35.78122330603419,0 51.39882794581845,35.78079112212423,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="02B68ADD74413632AD57">
+		<name>T.18-263Y-Par4-W</name>
+		<LookAt>
+			<longitude>51.39981054130926</longitude>
+			<latitude>35.78431610074043</latitude>
+			<altitude>1573.678520284693</altitude>
+			<heading>102.1976407947188</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>313.6890368422246</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="163F9DC573413632AD57">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.40015721806743,35.78428502248531,1578.543472299948</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0538797E474136121F05">
+		<name>Hole 18</name>
+		<LookAt>
+			<longitude>51.40045149722389</longitude>
+			<latitude>35.78634636504881</latitude>
+			<altitude>1593.163535901866</altitude>
+			<heading>178.8827125906743</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>157.8624090521953</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_092E79F5A9426AB895BD</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="03F95488684136121F06">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>51.40046356655161,35.78644064836117,1593.513063442549</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="030ABA2ED642461ED354">
+		<name>Fairway 18</name>
+		<LookAt>
+			<longitude>51.40053319389086</longitude>
+			<latitude>35.78538668648503</latitude>
+			<altitude>1588.015672274815</altitude>
+			<heading>322.3569164561252</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000001</gx:fovy>
+			<range>512.5017790976563</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_041D2C84F5426AB895BE</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						51.40009869330555,35.7842638367364,0 51.40027596503844,35.7842862219382,0 51.4003414730965,35.78455210229401,0 51.40047960878507,35.78478667812135,0 51.40042088923317,35.78534264942948,0 51.40032791235473,35.7858796476307,0 51.40035783508313,35.78608127117803,0 51.4004157639896,35.78618966692247,0 51.40052774408002,35.7862730791088,0 51.40060466191125,35.78637105442512,0 51.40064696377561,35.78646489539955,0 51.40064973153522,35.7865176688446,0 51.4006013558193,35.78654757482266,0 51.40050824307173,35.78658237411457,0 51.40040773260652,35.78659664159125,0 51.40033409659073,35.78657474796158,0 51.40028900270933,35.78647808601355,0 51.39993077884673,35.78626316366827,0 51.39977137360459,35.78593006838156,0 51.39995755647806,35.78474585503518,0 51.39992588705236,35.78431597539596,0 51.40009869330555,35.7842638367364,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
